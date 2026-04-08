@@ -1,0 +1,6 @@
+# Project Files
+__pycache__/
+.blender-mcp/
+.claude/
+.mcp.json
+settings.local.json
